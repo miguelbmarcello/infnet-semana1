@@ -12,6 +12,8 @@ body {
     background-image: url('https://www.whatspaper.com/wp-content/uploads/2021/09/hd-lady-gaga-wallpaper-whatspaper.jpg');
     background-repeat: no-repeat;
     color: bisque;
+img {
+    width: 100%;
 }
 * {
     box-sizing: border-box;
