@@ -11,7 +11,7 @@ body {
     background-color: black;
     background-image: url('https://observatoriodocinema.uol.com.br/wp-content/uploads/2017/02/lgaga.jpg');
     background-repeat: no-repeat;
-    background-position: cover;
+    background-size: cover;
     color: bisque;
 }
 * {
