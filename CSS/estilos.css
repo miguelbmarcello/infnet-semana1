@@ -9,7 +9,10 @@ h4 {
 }
 body {
     background-color: aqua;
-    background-image: url('https://exame.com/wp-content/uploads/2020/04/gettyimages-627027978.jpg?quality=70&strip=info&resize=680,453');
+    background-image: url('https://www.whatspaper.com/wp-content/uploads/2021/09/hd-lady-gaga-wallpaper-whatspaper.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
+* {
+    box-sizing: border-box;
+  }
