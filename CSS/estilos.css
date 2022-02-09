@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(235, 29, 156);
+    border-color: 235,29,156;
+    border-width: 1;
+    border-style: solid;
+}
+h4 {
+    color: blue;
+}
+body {
+    background-color: aqua;
+    background-image: url('https://exame.com/wp-content/uploads/2020/04/gettyimages-627027978.jpg?quality=70&strip=info&resize=680,453');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
