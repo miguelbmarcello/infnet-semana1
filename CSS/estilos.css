@@ -9,13 +9,9 @@ h4 {
 }
 body {
     background-color: black;
-    background-image: url('https://www.whatspaper.com/wp-content/uploads/2021/09/hd-lady-gaga-wallpaper-whatspaper.jpg');
+    background-image: url('https://observatoriodocinema.uol.com.br/wp-content/uploads/2017/02/lgaga.jpg');
     background-repeat: no-repeat;
     color: bisque;
-}
-<div id="container-da-imagem">
-<img src= url('https://www.whatspaper.com/wp-content/uploads/2021/09/hd-lady-gaga-wallpaper-whatspaper.jpg'>
-</div>
 }
 * {
     box-sizing: border-box;
